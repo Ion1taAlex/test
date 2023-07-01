@@ -1,0 +1,80 @@
+*{
+font-family:Arial, Helvetica, sans-serif;
+margin: 0;
+
+}
+
+body{
+    background-image: url('https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.logo{
+
+padding: 0%;
+scale: 4%;
+height: 1px;
+width: 1px;
+cursor: pointer;
+margin: 0 50 0 0px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: darkred;
+    display: flex;
+    height: 55px;
+    display: flex;
+    justify-content:space-between;  
+}
+.navbar li{
+    
+    display: inline-block;
+}
+.navbar a {
+    text-decoration: none;
+   color: white;
+  
+}
+
+
+
+
+.hero{
+  
+    background-color: rgba(255, 255, 255, 0.1);
+    display:flex;
+    padding: 10px;
+    margin: 70px 250px;
+   
+}
+
+.hero h1{
+    color: red;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hero p{
+    color: white;
+}
+
+.hero li{
+    color:white;
+}
+
+.hero .right{
+margin-top: 100px;
+}
+
+.hero .left img{
+    size-adjust: 203px;
+    
+
+}
+.hero .left:hover{
+    border: 3px solid rgb(210, 213, 216);
+scale: 90%;
+cursor: pointer;
+ 
+}
