@@ -17,7 +17,7 @@ body{
 .navbar{
     display: flex ;
     background-color: darkred;
-    width: auto;
+    width: 1903;
     height: 55px;
     justify-content: flex-end;
 
